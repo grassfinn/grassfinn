@@ -6,19 +6,19 @@
 
 <div align='center'>
 
-- 🔭 I’m currently working on [Card Stacks - a MtG Collection App](https://github.com/grassfinn/MtgCollection)
+🔭 I’m currently working on [Card Stacks - a MtG Collection App](https://github.com/grassfinn/MtgCollection)
 
-- 🌱 I’m currently learning **React**
+🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://grassfinn.github.io/Portfolio-site/](https://grassfinn.github.io/Portfolio-site/)
+👨‍💻 All of my projects are available at [https://grassfinn.github.io/Portfolio-site/](https://grassfinn.github.io/Portfolio-site/)
 
-- 📝 I regularly write articles on [https://harpcode.tech/](https://harpcode.tech/)
+📝 I regularly write articles on [https://harpcode.tech/](https://harpcode.tech/)
 
-- 💬 Ask me about **JavaScript or React!**
+💬 Ask me about **JavaScript or React!**
 
-- 📫 How to reach me **andrew.j.harp@gmail.com**
+📫 How to reach me **andrew.j.harp@gmail.com**
 
-- ⚡ Fun fact **Magic the Gathering fanatic and avid Adventure Time fan!**
+⚡ Fun fact **Magic the Gathering fanatic and avid Adventure Time fan!**
   
  </div>
 
