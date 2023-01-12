@@ -6,7 +6,7 @@
 
 <div align='center'>
   
-📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KqIn2R9L-wHrMzNCHFccL6MqeA1ENR7e/view?usp=sharing)
+📄 Know about my experiences (feel free to comment how I can improve my resume!) [Resume](https://drive.google.com/file/d/1KqIn2R9L-wHrMzNCHFccL6MqeA1ENR7e/view?usp=sharing)
 
 🔭 I’m currently working on [Card Stacks - a MtG Collection App](https://github.com/grassfinn/MtgCollection)
 
@@ -16,11 +16,11 @@
 
 📝 I regularly write articles on [https://harpcode.tech/](https://harpcode.tech/)
 
-💬 Ask me about **JavaScript or React!**
+💬 Ask me about **JavaScript,React, or Adventure Time**
 
 📫 How to reach me **andrew.j.harp@gmail.com**
 
-⚡ Fun fact **Magic the Gathering fanatic and avid Adventure Time fan!**
+⚡ Fun fact **I am Magic the Gathering fanatic and avid Adventure Time fan!**
   
  </div>
 
