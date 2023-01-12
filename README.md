@@ -24,11 +24,6 @@
   
  </div>
 
-<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grassfinn&show_icons=true&locale=en&layout=compact" alt="grassfinn" /></p>
-
-<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grassfinn&show_icons=true&locale=en" alt="grassfinn" /></p>
-
-<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grassfinn&" alt="grassfinn" /></p>
 
 <p align="center"> <a href="https://twitter.com/hobojohn61" target="blank"><img src="https://img.shields.io/twitter/follow/hobojohn61?logo=twitter&style=for-the-badge" alt="hobojohn61" /></a> </p>
 
