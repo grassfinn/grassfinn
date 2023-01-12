@@ -6,7 +6,7 @@
 
 <div align='center'>
   
-📄 Know about my experiences [https://drive.google.com/file/d/1KqIn2R9L-wHrMzNCHFccL6MqeA1ENR7e/view?usp=sharing](https://drive.google.com/file/d/1KqIn2R9L-wHrMzNCHFccL6MqeA1ENR7e/view?usp=sharing)
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KqIn2R9L-wHrMzNCHFccL6MqeA1ENR7e/view?usp=sharing)
 
 🔭 I’m currently working on [Card Stacks - a MtG Collection App](https://github.com/grassfinn/MtgCollection)
 
