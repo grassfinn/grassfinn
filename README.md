@@ -6,6 +6,8 @@
 
 <div align='center'>
   
+<!--   https://blog.arnabghosh.me/add-github-dark-snake-animation-readme#heading-2-go-to-action -->
+  
 ![Snake animation](https://github.com/grassfinn/grassfinn/blob/output/github-contribution-grid-snake.svg)
   
 📄 Know about my experiences (feel free to comment how I can improve my resume!) [Resume](https://drive.google.com/file/d/1KqIn2R9L-wHrMzNCHFccL6MqeA1ENR7e/view?usp=sharing)
