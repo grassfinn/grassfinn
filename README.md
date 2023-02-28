@@ -18,7 +18,7 @@
 
 👨‍💻 All of my projects are available at [https://grassfinn.github.io/Portfolio-site/](https://grassfinn.github.io/Portfolio-site/)
 
-📝 I regularly write articles on [https://harpcode.tech/](https://harpcode.tech/)
+📝 I regularly write articles on [harpcode](https://harpcode.hashnode.dev/)
 
 💬 Ask me about **JavaScript,React, or Adventure Time**
 
