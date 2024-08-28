@@ -14,8 +14,6 @@
 
 🔭 I’m currently working on [Card Stacks - a MtG Collection App](https://github.com/grassfinn/MtgCollection)
 
-🌱 I’m currently learning **React**
-
 👨‍💻 All of my projects are available at [https://grassfinn.github.io/Portfolio-site/](https://grassfinn.github.io/Portfolio-site/)
 
 📝 I regularly write articles on [harpcode](https://harpcode.hashnode.dev/)
