@@ -7,9 +7,6 @@
   
 <!--   https://blog.arnabghosh.me/add-github-dark-snake-animation-readme#heading-2-go-to-action -->
   
-![Snake animation](https://github.com/grassfinn/grassfinn/blob/output/github-contribution-grid-snake.svg)
-  
-
 👨‍💻 All of my projects are available at [harp.codes](https://www.harp.codes/)
 
 💬 Ask me about **JavaScript,React, or Adventure Time**
